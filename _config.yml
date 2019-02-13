@@ -1,1 +1,8 @@
+title: openFlightHPC
+description: >-
+    Next Generation HPC on Any Platform
 theme: jekyll-theme-architect
+
+github:
+    repository_url: https://github.com/openflighthpc/
+
