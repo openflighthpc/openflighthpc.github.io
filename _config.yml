@@ -6,3 +6,28 @@ theme: jekyll-theme-architect
 github:
     repository_url: https://github.com/openflighthpc/
 
+markdown: kramdown
+
+collections:
+  project-information:
+      order: 1
+      output: true
+  architecture:
+      order: 2
+      output: true
+  platform:
+      order: 3
+      output: true
+  environment:
+      order: 4
+      output: true
+  workflow:
+      order: 5
+      output: true
+
+defaults:
+    - scope:
+        path: ""
+        type: "project-information"
+      values:
+        layout: "default"
