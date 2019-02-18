@@ -5,7 +5,7 @@
 title: index
 layout: default 
 ---
-`openFlightHPC` is an open-source community developing a flexible, functional and HPC stack that can be launched on any platform.
+`openFlightHPC` is an open-source community developing a flexible, functional and stable HPC stack that can be launched on any platform.
 
 By developing separate, modular tools, the process of designing, deploying and managing architecture to workflow can be effectively delivered. 
 
